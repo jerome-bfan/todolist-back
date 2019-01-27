@@ -1,4 +1,3 @@
-
 {
     "test": $input.body,
 	"id_pro": "$input.params('id_pro')"
